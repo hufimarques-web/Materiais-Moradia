@@ -1,0 +1,687 @@
+{
+  "version": 1,
+  "brand": "Domaine XXV",
+  "title": "Materiais à sua medida",
+  "sourceDocument": "Domaine_25_Tres_Kits_Materiais.pdf",
+  "sourceDate": "2026-10-26",
+  "disclaimer": "Simulação visual. Confirmar cor, textura, escala e variação de lote com amostras físicas antes da aprovação.",
+  "selectionNote": "As referências e formatos da ficha prevalecem sobre a simulação.",
+  "materials": {
+    "u702": {
+      "id": "u702",
+      "name": "Caxemira",
+      "manufacturer": "EGGER",
+      "reference": "U702 ST9",
+      "color": "Bege caxemira, quente e suave",
+      "finish": "Mate · ST9",
+      "format": "Frentes lisas, dimensões conforme projeto",
+      "image": "assets/materials/egger-u702-st9.jpg",
+      "sourceUrl": "https://www.egger.com/pt/mobiliario-design-de-interiores/decors/U702_9",
+      "sourcePages": [
+        3,
+        14
+      ],
+      "notes": "",
+      "colorHex": "#d7c9bc",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "approximateSwatchHex": "#d7c9bc"
+    },
+    "u963": {
+      "id": "u963",
+      "name": "Cinza sombra",
+      "manufacturer": "EGGER",
+      "reference": "U963 ST9",
+      "color": "Cinza escuro",
+      "finish": "Mate · ST9",
+      "format": "Frentes lisas, dimensões conforme projeto",
+      "image": "assets/materials/egger-u963-st9.jpg",
+      "sourceUrl": "https://www.egger.com/pt/mobiliario-design-de-interiores/decors/U963_9",
+      "sourcePages": [
+        4,
+        14
+      ],
+      "notes": "",
+      "colorHex": "#414141",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "approximateSwatchHex": "#414141"
+    },
+    "w1000": {
+      "id": "w1000",
+      "name": "Branco premium",
+      "manufacturer": "EGGER",
+      "reference": "W1000 ST9",
+      "color": "Branco",
+      "finish": "Mate · ST9",
+      "format": "Frentes lisas, dimensões conforme projeto",
+      "image": "assets/materials/egger-w1000-st9.jpg",
+      "sourceUrl": "https://www.egger.com/pt/mobiliario-design-de-interiores/decors/W1000_9",
+      "sourcePages": [
+        5,
+        14
+      ],
+      "notes": "",
+      "colorHex": "#fcfdf5",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "approximateSwatchHex": "#fcfdf5"
+    },
+    "h1367": {
+      "id": "h1367",
+      "name": "Carvalho Casella claro",
+      "manufacturer": "EGGER",
+      "reference": "H1367 ST40",
+      "color": "Carvalho claro, com veio natural",
+      "finish": "ST40 · textura de madeira",
+      "format": "Apontamento nos superiores ou painel",
+      "image": "assets/materials/egger-h1367-st40.jpg",
+      "sourceUrl": "https://www.egger.com/pt/mobiliario-design-de-interiores/decors/H1367_40",
+      "sourcePages": [
+        3,
+        4,
+        5,
+        14
+      ],
+      "notes": "Referência comum aos três kits. A madeira do móvel de banho é Carvalho Hera, não esta referência.",
+      "colorHex": "#ccaf8b",
+      "fixed": true,
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "approximateSwatchHex": "#ccaf8b"
+    },
+    "pedras-salgadas": {
+      "id": "pedras-salgadas",
+      "name": "Pedras Salgadas",
+      "manufacturer": "Marmofoz · fornecedor",
+      "reference": "Granito Pedras Salgadas",
+      "color": "Cinza claro granulado",
+      "finish": "Granito natural · acabamento final a confirmar",
+      "format": "20 mm · aresta simples",
+      "image": "assets/materials/granito-pedras-salgadas.jpg",
+      "sourceUrl": "https://www.marmofoz.com/pt/produtos/detalhes/pedras-salgadas_86823/",
+      "sourcePages": [
+        3,
+        14
+      ],
+      "notes": "Amostra de pedra natural; grão e tonalidade variam entre chapas. Medidas e recortes conforme projeto.",
+      "colorHex": "#bcb8b2",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "approximateSwatchHex": "#bcb8b2"
+    },
+    "negro-angola": {
+      "id": "negro-angola",
+      "name": "Negro Angola",
+      "manufacturer": "Marmofoz · fornecedor",
+      "reference": "Granito Negro Angola",
+      "color": "Preto com grão mineral",
+      "finish": "Granito natural · acabamento final a confirmar",
+      "format": "20 mm · aresta simples",
+      "image": "assets/materials/granito-negro-angola.jpg",
+      "sourceUrl": "https://www.marmofoz.com/pt/produtos/detalhes/negro-angola1_87027/",
+      "sourcePages": [
+        4,
+        5,
+        14
+      ],
+      "notes": "O mesmo granito é usado nos kits Grafite & Carvalho e Luz & Contraste. São duas pedras disponíveis, não três.",
+      "colorHex": "#202020",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "approximateSwatchHex": "#202020"
+    },
+    "gaia-creme-wall": {
+      "id": "gaia-creme-wall",
+      "name": "Gaia Creme",
+      "manufacturer": "Certeca",
+      "reference": "55GA10",
+      "color": "Creme mineral claro",
+      "finish": "Mate",
+      "format": "25 × 50 cm",
+      "image": "assets/materials/certeca-gaia-creme.jpg",
+      "sourceUrl": "https://certeca.pt/index.php/pt-colecoes/60-pt/geral/669-gaia",
+      "sourcePages": [
+        3,
+        14
+      ],
+      "notes": "Cor, escala, junta e variação de lote a confirmar com amostra física.",
+      "colorHex": "#f2f1ec",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "sourceImageUrl": null,
+      "approximateSwatchHex": "#f2f1ec"
+    },
+    "gaia-cinza-wall": {
+      "id": "gaia-cinza-wall",
+      "name": "Gaia Cinza",
+      "manufacturer": "Certeca",
+      "reference": "55GA70",
+      "color": "Cinza mineral claro",
+      "finish": "Mate",
+      "format": "25 × 50 cm",
+      "image": "assets/materials/certeca-gaia-cinza.jpg",
+      "sourceUrl": "https://certeca.pt/index.php/pt-colecoes/60-pt/geral/669-gaia",
+      "sourcePages": [
+        4,
+        14
+      ],
+      "notes": "Cor, escala, junta e variação de lote a confirmar com amostra física.",
+      "colorHex": "#c4c1be",
+      "sampleProvenance": "Amostra oficial Certeca",
+      "sourceImageUrl": "https://certeca.pt/images/colecoes_certeca/gaia/pecas/Gaia%20Cinza%2025x50%2055GA70-min.jpg",
+      "approximateSwatchHex": "#c4c1be"
+    },
+    "gaia-antracite-wall": {
+      "id": "gaia-antracite-wall",
+      "name": "Gaia Antracite",
+      "manufacturer": "Certeca",
+      "reference": "55GA82",
+      "color": "Antracite mineral",
+      "finish": "Mate",
+      "format": "25 × 50 cm",
+      "image": "assets/materials/certeca-gaia-antracite.jpg",
+      "sourceUrl": "https://certeca.pt/index.php/pt-colecoes/60-pt/geral/669-gaia",
+      "sourcePages": [
+        4,
+        14
+      ],
+      "notes": "Cor, escala, junta e variação de lote a confirmar com amostra física.",
+      "colorHex": "#7f7c79",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "sourceImageUrl": null,
+      "approximateSwatchHex": "#7f7c79"
+    },
+    "borba-white-wall": {
+      "id": "borba-white-wall",
+      "name": "Borba Branco Mate",
+      "manufacturer": "Certeca",
+      "reference": "55BO03",
+      "color": "Branco com veios quentes",
+      "finish": "Mate",
+      "format": "25 × 50 cm",
+      "image": "assets/materials/certeca-borba-branco-mate.jpg",
+      "sourceUrl": "https://www.certeca.pt/index.php/pt-colecoes/60-pt/geral/591-borba",
+      "sourcePages": [
+        5,
+        14
+      ],
+      "notes": "Cor, escala, junta e variação de lote a confirmar com amostra física.",
+      "colorHex": "#f1f0ec",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "sourceImageUrl": null,
+      "approximateSwatchHex": "#f1f0ec"
+    },
+    "gaia-creme-floor": {
+      "id": "gaia-creme-floor",
+      "name": "Gaia Creme",
+      "manufacturer": "Certeca",
+      "reference": "45SGA10",
+      "color": "Creme mineral claro",
+      "finish": "Mate",
+      "format": "45 × 45 cm",
+      "image": "assets/materials/certeca-gaia-creme.jpg",
+      "sourceUrl": "https://certeca.pt/index.php/pt-colecoes/60-pt/geral/669-gaia",
+      "sourcePages": [
+        3,
+        14
+      ],
+      "notes": "A amostra mostra o décor da coleção. A peça de pavimento selecionada é 45 × 45 cm; confirmar o lote e a ficha técnica para uso molhado.",
+      "colorHex": "#f2f1ec",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "sampleFormat": "Amostra do décor 25 × 50 cm",
+      "sourceImageUrl": null,
+      "approximateSwatchHex": "#f2f1ec"
+    },
+    "gaia-cinza-floor": {
+      "id": "gaia-cinza-floor",
+      "name": "Gaia Cinza",
+      "manufacturer": "Certeca",
+      "reference": "45SGA70",
+      "color": "Cinza mineral claro",
+      "finish": "Mate",
+      "format": "45 × 45 cm",
+      "image": "assets/materials/certeca-gaia-cinza.jpg",
+      "sourceUrl": "https://certeca.pt/index.php/pt-colecoes/60-pt/geral/669-gaia",
+      "sourcePages": [
+        5,
+        14
+      ],
+      "notes": "A amostra mostra o décor da coleção. A peça de pavimento selecionada é 45 × 45 cm; confirmar o lote e a ficha técnica para uso molhado.",
+      "colorHex": "#c4c1be",
+      "sampleProvenance": "Amostra oficial Certeca",
+      "sampleFormat": "Amostra do décor 25 × 50 cm",
+      "sourceImageUrl": "https://certeca.pt/images/colecoes_certeca/gaia/pecas/Gaia%20Cinza%2025x50%2055GA70-min.jpg",
+      "approximateSwatchHex": "#c4c1be"
+    },
+    "gaia-antracite-floor": {
+      "id": "gaia-antracite-floor",
+      "name": "Gaia Antracite",
+      "manufacturer": "Certeca",
+      "reference": "45SGA82",
+      "color": "Antracite mineral",
+      "finish": "Mate",
+      "format": "45 × 45 cm",
+      "image": "assets/materials/certeca-gaia-antracite.jpg",
+      "sourceUrl": "https://certeca.pt/index.php/pt-colecoes/60-pt/geral/669-gaia",
+      "sourcePages": [
+        4,
+        14
+      ],
+      "notes": "A amostra mostra o décor da coleção. A peça de pavimento selecionada é 45 × 45 cm; confirmar o lote e a ficha técnica para uso molhado.",
+      "colorHex": "#7f7c79",
+      "sampleProvenance": "Imagem original extraída do PDF",
+      "sampleFormat": "Amostra do décor 25 × 50 cm",
+      "sourceImageUrl": null,
+      "approximateSwatchHex": "#7f7c79"
+    },
+    "handle-aluminium": {
+      "id": "handle-aluminium",
+      "name": "Alumínio mate",
+      "manufacturer": "Emuca · referência de forma",
+      "reference": "Setubal",
+      "color": "Alumínio natural mate",
+      "finish": "Aba fina · acabamento a validar",
+      "format": "Referência de forma Setubal · 104 mm",
+      "image": null,
+      "sourceUrl": "https://www.armazensreis.pt/pt/ferragens-de-mobiliario/puxador-setubal-104mm_p18520.html",
+      "sourcePages": [
+        3,
+        14
+      ],
+      "notes": "A forma Setubal é a referência do dossier; confirmar acabamento, dimensão e disponibilidade com o fornecedor. A cor é ilustrativa.",
+      "colorHex": "#a7a8a6",
+      "sampleProvenance": "Cor ilustrativa; sem fotografia de amostra no dossier",
+      "availabilityConfirmed": false,
+      "approximateSwatchHex": "#a7a8a6"
+    },
+    "handle-anthracite": {
+      "id": "handle-anthracite",
+      "name": "Antracite",
+      "manufacturer": "Emuca · referência de forma",
+      "reference": "Setubal",
+      "color": "Antracite",
+      "finish": "Aba fina · acabamento a validar",
+      "format": "Referência de forma Setubal · 104 mm",
+      "image": null,
+      "sourceUrl": "https://www.armazensreis.pt/pt/ferragens-de-mobiliario/puxador-setubal-104mm_p18520.html",
+      "sourcePages": [
+        4,
+        14
+      ],
+      "notes": "A forma Setubal é a referência do dossier; confirmar acabamento, dimensão e disponibilidade com o fornecedor. A cor é ilustrativa.",
+      "colorHex": "#4b4d4d",
+      "sampleProvenance": "Cor ilustrativa; sem fotografia de amostra no dossier",
+      "availabilityConfirmed": false,
+      "approximateSwatchHex": "#4b4d4d"
+    },
+    "handle-black": {
+      "id": "handle-black",
+      "name": "Preto",
+      "manufacturer": "Emuca · referência de forma",
+      "reference": "Setubal",
+      "color": "Preto",
+      "finish": "Aba fina · acabamento a validar",
+      "format": "Referência de forma Setubal · 104 mm",
+      "image": null,
+      "sourceUrl": "https://www.armazensreis.pt/pt/ferragens-de-mobiliario/puxador-setubal-104mm_p18520.html",
+      "sourcePages": [
+        4,
+        5,
+        14
+      ],
+      "notes": "A forma Setubal é a referência do dossier; confirmar acabamento, dimensão e disponibilidade com o fornecedor. A cor é ilustrativa.",
+      "colorHex": "#202223",
+      "sampleProvenance": "Cor ilustrativa; sem fotografia de amostra no dossier",
+      "availabilityConfirmed": false,
+      "approximateSwatchHex": "#202223"
+    }
+  },
+  "spaces": {
+    "kitchen": {
+      "label": "Cozinha",
+      "location": "R/C",
+      "categories": [
+        {
+          "id": "fronts",
+          "label": "Frentes",
+          "options": [
+            "u702",
+            "u963",
+            "w1000"
+          ],
+          "default": "w1000"
+        },
+        {
+          "id": "countertop",
+          "label": "Bancada",
+          "options": [
+            "pedras-salgadas",
+            "negro-angola"
+          ],
+          "default": "negro-angola"
+        },
+        {
+          "id": "backsplash",
+          "label": "Entre móveis",
+          "options": [
+            "gaia-creme-wall",
+            "gaia-cinza-wall",
+            "borba-white-wall"
+          ],
+          "default": "borba-white-wall"
+        },
+        {
+          "id": "floor",
+          "label": "Pavimento",
+          "options": [
+            "gaia-creme-floor",
+            "gaia-antracite-floor",
+            "gaia-cinza-floor"
+          ],
+          "default": "gaia-cinza-floor"
+        },
+        {
+          "id": "handles",
+          "label": "Puxadores",
+          "options": [
+            "handle-aluminium",
+            "handle-anthracite",
+            "handle-black"
+          ],
+          "default": "handle-black"
+        }
+      ],
+      "fixed": [
+        "h1367"
+      ],
+      "equipment": [
+        "sink",
+        "kitchen-tap"
+      ]
+    },
+    "bath": {
+      "label": "Casa de banho comum",
+      "location": "1.º andar",
+      "categories": [
+        {
+          "id": "walls",
+          "label": "Paredes",
+          "options": [
+            "gaia-creme-wall",
+            "gaia-cinza-wall",
+            "borba-white-wall"
+          ],
+          "default": "borba-white-wall"
+        },
+        {
+          "id": "shower",
+          "label": "Zona de duche",
+          "options": [
+            "gaia-creme-wall",
+            "gaia-antracite-wall",
+            "borba-white-wall"
+          ],
+          "default": "borba-white-wall"
+        },
+        {
+          "id": "floor",
+          "label": "Pavimento",
+          "options": [
+            "gaia-creme-floor",
+            "gaia-antracite-floor",
+            "gaia-cinza-floor"
+          ],
+          "default": "gaia-cinza-floor"
+        }
+      ],
+      "fixed": [],
+      "equipment": [
+        "surf-80",
+        "single-plus",
+        "vita",
+        "inside",
+        "nexo",
+        "monza",
+        "screen",
+        "mirror"
+      ]
+    }
+  },
+  "kits": [
+    {
+      "id": "areia",
+      "number": "01",
+      "name": "Areia Natural",
+      "description": "Caxemira, carvalho claro e cerâmica mineral.",
+      "selections": {
+        "kitchen": {
+          "fronts": "u702",
+          "countertop": "pedras-salgadas",
+          "backsplash": "gaia-creme-wall",
+          "handles": "handle-aluminium",
+          "floor": "gaia-creme-floor"
+        },
+        "bath": {
+          "walls": "gaia-creme-wall",
+          "shower": "gaia-creme-wall",
+          "floor": "gaia-creme-floor"
+        }
+      }
+    },
+    {
+      "id": "grafite",
+      "number": "02",
+      "name": "Grafite & Carvalho",
+      "description": "Cinza sombra, granito escuro e madeira clara.",
+      "selections": {
+        "kitchen": {
+          "fronts": "u963",
+          "countertop": "negro-angola",
+          "backsplash": "gaia-cinza-wall",
+          "handles": "handle-anthracite",
+          "floor": "gaia-antracite-floor"
+        },
+        "bath": {
+          "walls": "gaia-cinza-wall",
+          "shower": "gaia-antracite-wall",
+          "floor": "gaia-antracite-floor"
+        }
+      }
+    },
+    {
+      "id": "luz",
+      "number": "03",
+      "name": "Luz & Contraste",
+      "description": "Branco mate, carvalho e pedra escura.",
+      "selections": {
+        "kitchen": {
+          "fronts": "w1000",
+          "countertop": "negro-angola",
+          "backsplash": "borba-white-wall",
+          "handles": "handle-black",
+          "floor": "gaia-cinza-floor"
+        },
+        "bath": {
+          "walls": "borba-white-wall",
+          "shower": "borba-white-wall",
+          "floor": "gaia-cinza-floor"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "id": "surf-80",
+      "space": "bath",
+      "name": "Móvel + lavatório Surf 80",
+      "manufacturer": "AML",
+      "reference": "Surf 80 · Carvalho Hera",
+      "color": "Carvalho Hera e lavatório branco",
+      "finish": "Madeira decorativa e lavatório branco",
+      "dimensions": "82 × 56 × 47 cm indicados no fornecedor",
+      "sourceUrl": "https://www.armazensreis.pt/pt/moveis-e-espelhos-de-banho/movel-wc-surf-2-gavetas-com-lavatorio_p22303.html",
+      "image": "assets/materials/aml-surf-80.jpg",
+      "notes": "Duas gavetas. Validar a amostra do móvel junto à madeira da cozinha.",
+      "sourcePages": [
+        6,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "single-plus",
+      "space": "bath",
+      "name": "Misturadora de lavatório Single Plus",
+      "manufacturer": "Sanindusa",
+      "reference": "506030111 · a validar",
+      "color": "Cromado",
+      "finish": "Cromado",
+      "dimensions": "Altura a validar com o lavatório",
+      "sourceUrl": "https://macolusa.pt/products/torneira-de-lavatorio-sanindusa-single-plus-cromada/",
+      "image": "assets/materials/sanindusa-single-plus.jpg",
+      "notes": "",
+      "sourcePages": [
+        6,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "vita",
+      "space": "bath",
+      "name": "Base de duche Vita",
+      "manufacturer": "Sanitana",
+      "reference": "Vita",
+      "color": "Branco",
+      "finish": "Mate",
+      "dimensions": "120 × 80 cm · medida provisória",
+      "sourceUrl": "https://macolusa.pt/products/base-de-duche-sanitana-vita-branco-mate/",
+      "image": "assets/materials/sanitana-vita.jpg",
+      "notes": "Dimensão indicada no dossier como hipótese; confirmar em obra.",
+      "sourcePages": [
+        6,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "inside",
+      "space": "bath",
+      "name": "Estrutura oculta Inside",
+      "manufacturer": "Sanitana",
+      "reference": "Inside · parede ligeira",
+      "color": "Não visível após instalação",
+      "finish": "Estrutura oculta",
+      "dimensions": "Conforme validação técnica",
+      "sourceUrl": "https://www.obramat.pt/produtos/estrutura-sanita-inside-parede-ligeira-sanitana-25070056.html",
+      "image": "assets/materials/sanitana-inside.jpg",
+      "notes": "Placa compatível e fixações a confirmar. A imagem disponível no dossier é pequena.",
+      "sourcePages": [
+        6,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "nexo",
+      "space": "bath",
+      "name": "Sanita suspensa Nexo",
+      "manufacturer": "Sanitana",
+      "reference": "S10075918200000",
+      "color": "Branco",
+      "finish": "Louça sanitária branca",
+      "dimensions": "Conforme ficha técnica",
+      "sourceUrl": "https://www.armazensreis.pt/pt/louca-sanitaria/sanita-suspensa-sanitana-nexo_p8110.html",
+      "image": null,
+      "notes": "Tampo amortecido compatível, estrutura e placa são componentes separados. O dossier não confirma descarga sem rebordo.",
+      "sourcePages": [
+        6,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "monza",
+      "space": "bath",
+      "name": "Coluna de duche Monza",
+      "manufacturer": "Imex",
+      "reference": "Monza · monocomando",
+      "color": "Cromado",
+      "finish": "Cromado",
+      "dimensions": "Conforme ficha técnica",
+      "sourceUrl": "https://macolusa.pt/products/coluna-de-duche-imex-monza-cromada/",
+      "image": null,
+      "notes": "",
+      "sourcePages": [
+        6,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "screen",
+      "space": "bath",
+      "name": "Resguardo frontal de correr",
+      "manufacturer": "Casa Peixoto · referência visual",
+      "reference": "Frontal 120 × 195 cromado",
+      "color": "Vidro transparente e perfis cromados",
+      "finish": "Cromado",
+      "dimensions": "120 × 195 cm · medida a confirmar",
+      "sourceUrl": "https://casapeixoto.pt/casas-de-banho/bases-chuveiro/resguardos-bases/4932-frontal-duche-120x195cm-cromado",
+      "image": null,
+      "notes": "Referência visual. Confirmar dimensões finais, abertura e tolerâncias.",
+      "sourcePages": [
+        6,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "mirror",
+      "space": "bath",
+      "name": "Espelho retangular simples",
+      "manufacturer": "A definir",
+      "reference": "Sem referência definida no dossier",
+      "color": "Espelho",
+      "finish": "Sem moldura pesada",
+      "dimensions": "Conforme projeto",
+      "sourceUrl": null,
+      "image": null,
+      "notes": "Peça comum aos três kits; não existe referência de fabricante fechada.",
+      "sourcePages": [
+        3,
+        5
+      ],
+      "fixed": true
+    },
+    {
+      "id": "sink",
+      "space": "kitchen",
+      "name": "Lava-louça BE 50.40 Plus",
+      "manufacturer": "Teka",
+      "reference": "BE 50.40 Plus",
+      "color": "Inox",
+      "finish": "Inox · sob tampo",
+      "dimensions": "Para móvel de 60 cm",
+      "sourceUrl": "https://hipermercado.pt/pt/eletrodomesticos/3090-lava-louca-teka-be-504020-plus-inox-8421152062111.html",
+      "image": null,
+      "notes": "Confirmar cuba, acessórios e recorte com o fornecedor.",
+      "sourcePages": [
+        3,
+        15
+      ],
+      "fixed": true
+    },
+    {
+      "id": "kitchen-tap",
+      "space": "kitchen",
+      "name": "Misturadora FO 915",
+      "manufacturer": "Teka",
+      "reference": "629150200",
+      "color": "Cromado",
+      "finish": "Cromado",
+      "dimensions": "Conforme ficha técnica",
+      "sourceUrl": "https://www.teka.com/pt-pt/produto/fo-915_629150200/",
+      "image": null,
+      "notes": "",
+      "sourcePages": [
+        15
+      ],
+      "fixed": true
+    }
+  ]
+}

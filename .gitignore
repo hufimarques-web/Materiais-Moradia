@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+work/
+*.log
+.DS_Store
+
+dist
+.vercel/
+.openai/
+.env*
+*-provenance.json
